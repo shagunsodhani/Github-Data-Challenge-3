@@ -1,0 +1,10 @@
+[mysqld]
+host = 
+user = 
+passwd = 
+db =
+charset = utf8 
+use_unicode = True 
+
+[github]
+key = 
